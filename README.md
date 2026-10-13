@@ -25,3 +25,9 @@ Poverty measurement traditionally relies on comprehensive income data, which can
 * **Basic Utilities & Staples**: Expenditure shares on basic food staples and utilities show strong negative correlations with overall household income, making them prime candidates for proxy poverty indicators.
 * **Regional Disparities**: Expenditure patterns vary significantly across different administrative regions and household structures, emphasizing the need for localized proxy thresholds rather than a single nationwide blanket metric.
 * **Survey-Weighted Reliability**: Utilizing survey-weighted analysis ensured that findings accurately reflect broader national demographic trends.
+
+## Data Source
+Raw Data: Kaggle - Family Income and Expenditure (grosvenpaul)
+
+## PPT Presentation
+Due to file size limitations on GitHub, the project presentation file are hosted externally (https://drive.google.com/drive/folders/15QUhntI6PK_R5sHvW1INNLAKjY4KNEyX)
