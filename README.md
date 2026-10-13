@@ -28,7 +28,8 @@ Poverty measurement traditionally relies on comprehensive income data, which can
 
 ## Data Source
 Raw Data: Kaggle - Family Income and Expenditure (grosvenpaul)
-https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure/data
+
+(https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure/data)
 
 ## PPT Presentation
 Due to file size limitations on GitHub, the project presentation file are hosted externally (https://drive.google.com/drive/folders/15QUhntI6PK_R5sHvW1INNLAKjY4KNEyX)
