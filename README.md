@@ -33,3 +33,5 @@ Raw Data: Kaggle - Family Income and Expenditure (grosvenpaul)
 
 ## PPT Presentation
 Due to file size limitations on GitHub, the project presentation file are hosted externally (https://drive.google.com/drive/folders/15QUhntI6PK_R5sHvW1INNLAKjY4KNEyX)
+
+*This project was developed for learning and portfolio purposes.*
